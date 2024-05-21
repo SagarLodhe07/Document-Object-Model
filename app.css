@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Popins', sans-serif;
+    font-size: 1.5rem;
+}
+
+#container {
+    width: 600px;
+    height: auto;
+    border: 1px solid #ccc;
+    margin: 50px auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: crimson;
+    color: whitesmoke;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 7px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+/* li:last-child {
+    border-bottom: 2px solid #ddd; */
+/* } */
